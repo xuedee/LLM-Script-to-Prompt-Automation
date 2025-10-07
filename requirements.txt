@@ -1,0 +1,6 @@
+transformers
+accelerate
+einops
+gradio
+requests
+torch
